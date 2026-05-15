@@ -7,11 +7,11 @@
 **Fuente de los Datos. https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs**
 
 ## Instrucciones la ejecución de este proyecto:
-- **Clonar este repositorio**: Para clonar este repositorio correr el siguiente comando en la terminal de su computadora:
+- **Clonar este repositorio**: Para clonar este repositorio corre el siguiente comando en la terminal de tu computadora:
   
   ```git clone https://github.com/raylovesmusic/Proyecto-1---IMT2230.git```
 
-- **Instalación de librerías**: Antes de correr el notebook, asegúrate de instalar las librerías necesarias para su correcta ejecución. Para esto, corre la siguiente linea de códigoo en la terminal, idealmente en el entorno virtual que utilices para abrir el proyecto:
+- **Instalación de librerías**: Antes de correr el notebook, asegúrate de instalar las librerías necesarias para su correcta ejecución. Para esto, corre la siguiente linea de código en la terminal, idealmente en el entorno virtual que utilices para abrir el proyecto:
 
   ```pip install pandas numpy matplotlib scikit-learn spacy scipy```
 
