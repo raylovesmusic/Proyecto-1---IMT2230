@@ -9,4 +9,4 @@ Fuente de los datos. https://www.kaggle.com/datasets/imuhammad/audio-features-an
 ## Instrucciones para su ejecución:
 - Clonar este repositorio: Para clonar este repositorio correr el siguiente comando en la terminal de su computadora:
   
-  ```git clone ```
+  ```git clone https://github.com/raylovesmusic/Proyecto-1---IMT2230.git```
