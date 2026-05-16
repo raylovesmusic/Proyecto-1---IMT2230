@@ -15,6 +15,10 @@
 
   ```pip install pandas numpy matplotlib scikit-learn spacy scipy```
 
+## Explicación de proyecto en lenguaje LaTex
+ Se puede encontrar en el siguiente link: https://www.overleaf.com/6363794477pvdkykjtkpvv#97302b
+
+
 ## Archivos necesarios
 ```proyecto.ipynb```: Jupyter Notebook principal en el que se ejecuta el proyecto.
 
